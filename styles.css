@@ -1,0 +1,74 @@
+body{
+    background-color: #074173;
+    margin-top: 8%;
+    
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: -15px;
+}
+
+#number{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    background-color: #074173;
+    border: 3px solid white;
+    color: white;
+}
+
+#convert-btn{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 102%;
+    height: 40px !important;
+    margin-top: 20px;
+    background-color: #97E7E1;
+    font-size: 1.5rem;
+    
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    border: 2px solid white;
+    width: 50%;
+    background-color: #496989;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+fieldset{
+    border: none;
+    padding: 20px;
+    width: 60%;
+}
+
+#output{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-size: 1.5rem;
+    margin-left: 24%;
+    margin-right: 24%;
+    background-color: #97E7E1;
+}
